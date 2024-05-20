@@ -1,0 +1,10 @@
+
+
+1. infinite scroll for saved posts page & profile page
+2. implement follow in db
+4. popup 'Are you sure you want to delete the post?'
+5. DM's
+
+Done:
+follow button component
+comment input
